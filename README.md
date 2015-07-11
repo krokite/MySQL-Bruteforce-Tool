@@ -16,7 +16,7 @@ Software Requirement Description: Python is required to run the tool and MySQL i
 1. Create "credentiallist.txt" file in pattern
         Username:Password
 2. Run below command 
-        python mysql_bruteforce.py
+        python mysql_bruteforce.py 127.0.0.1
 
 Grab Coffee and Relax now. When Username and Password is cracked, It will print the result and will exit.
 
