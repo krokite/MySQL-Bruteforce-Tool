@@ -26,7 +26,7 @@ fo = open("password.txt", 'r');
 for lines in fo:
         password = lines.split('\n')
         creds = password[0].split(':')
-        command = "mysql -u {0} -p{1} -e STATUS".format(creds[0], creds[1])
+        command = "mysql -h 127.0.0.1 -u {0} -p{1} -e STATUS".format(creds[0], creds[1])
         brute = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
         if(re.search("Uptime", brute.communicate()[0])):
                 print "Password Cracked and your Username:Password is ", creds[0],":",creds[1]
