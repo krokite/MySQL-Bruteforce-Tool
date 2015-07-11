@@ -2,7 +2,6 @@
 # Author : KroKite
 # Description: Basic Password Bruteforcing Tool.
 # URL: http://facebook.com/r0ckysharma
-# Python Version : 2.7
 
 import sys
 import subprocess
