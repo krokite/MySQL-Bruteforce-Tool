@@ -1,7 +1,8 @@
 # MySQL-Bruteforce-Tool
-As per PCI Compliance. Server should not have Remote MySQL enabled. This tools proves them right
+As per PCI Compliance. To Accept Debit card or Credit Card Online. Server should not have Remote MySQL enabled. 
+This tools proves the point. Given Tool is only for Research and Development and following the good practice to secure your Server.
 
-This is very easy tool and does world's most scariest damage. Given script proves, Why you should not have remote login enabled.
+This is very easy tool and does world's most scariest damage. This tool, will answer your question, "Why you should not have remote login enabled for mysql ?"
 
 #System Requirement : 
 
