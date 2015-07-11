@@ -13,7 +13,7 @@ Software Requirement Description: Python is required to run the tool and MySQL i
 
 #Steps to run this script :-
 
-1. Create "credentiallist.txt" file in below pattern
+1. Create "credentiallist.txt" file in pattern
         Username:Password
 2. Run below command 
         python mysql_bruteforce.py
