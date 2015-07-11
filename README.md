@@ -5,6 +5,7 @@ This is very easy tool and does world's most scariest damage. Given script prove
 
 System Requirement : 
 1. Operating System: Windows, Linux, Macinotsh [ All ]
+
 2. Software Required : Python & MySQL
 Software Requirement Description: Python is required to run the tool and MySQL is required to test the connection.
 
