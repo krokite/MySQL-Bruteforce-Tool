@@ -17,7 +17,7 @@ print '''
         \__|  \__| \__| \__| \______/  \__| \__| \______|   \__|   \________|
         '''
 print "[+] Please Report any Bug to krokite@worldofhacker.com"
-print "[+] Greets to: c1ph3r(Krit Kadnok), Nocdem, MayaSeven, Xcode, webDEVIl, fb1h2s, Aseem Jakhar, Prashant Mahajan, and Other NullCon members, Sukesh Reddy, Sarmanjit Singh, Rakesh Kumar"
+print "[+] Greets to: c1ph3r(Krit Kadnok), Nocdem, MayaSeven, Xcode, webDEVIl, b0nd, Aseem Jakhar, Vivek Ramachandran , fb1h2s , Prashant Mahajan, and Other NullCon members, Sukesh Reddy, Sarmanjit Singh, Rakesh Kumar"
 print "[+] For Security Releated Discussions, Do Visit us at http://www.garage4hackers.com or http://forum.worldofhacker.com"
 print "[+] This Application helps you to crack mysql password with given list"
 print "[+] Usage: python mysql_bruteforce.py"
