@@ -24,4 +24,4 @@ Grab Coffee and Relax now. When Username and Password is cracked, It will print 
 
 Good Luck!
 
-Note: Kindly note, this tool is for education purpose only. Kindly do not misue, if you misue this tool, I will not be responsible for anything.
+Note: This tool is only for Research, Development or Education purpose only. This tools should not be used for any illegal activity. If you misue this tool, I will not be responsible for anything that happens afterwards.
