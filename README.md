@@ -22,6 +22,8 @@ Software Requirement Description: Python is required to run the tool and MySQL i
 
 Grab Coffee and Relax now. When Username and Password is cracked, It will print the result and will exit.
 
+For any Question or Bus, Kindly report at http://forum.worldofhacker.com/Article-Source-Code-MySQL-Username-and-Password-Cracking-Tool
+
 Good Luck!
 
 Note: This tool is only for Research, Development or Education purpose only. This tools should not be used for any illegal activity. If you misue this tool, I will not be responsible for any damage or loss you make.
